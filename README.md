@@ -123,7 +123,7 @@ Southeast University
 
 This project is released under the **MIT License**.
 
-See the `LICENSE` file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
