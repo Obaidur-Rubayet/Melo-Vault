@@ -1,0 +1,8 @@
+{
+  "name": "Remix MeloVault",
+  "description": "Your Music. Your Device. Your Way. Fast, privacy-focused offline local music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
