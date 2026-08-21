@@ -1,3 +1,4 @@
+<img width="1039" height="1024" alt="Melo_Vault" src="https://github.com/user-attachments/assets/436fc9dd-3015-468b-b8f3-74e4be002d57" />
 # 🎵 MeloVault v1.0.0
 
 ### Your Music. Your Vault.
