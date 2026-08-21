@@ -130,4 +130,4 @@ See the [LICENSE](LICENSE) file for details.
 
 **Your Music. Your Vault.**
 
-<img width="104" height="102" alt="Melo_Vault" src="https://github.com/user-attachments/assets/436fc9dd-3015-468b-b8f3-74e4be002d57" />
+<img width="160" height="256" alt="Melo_Vault" src="https://github.com/user-attachments/assets/436fc9dd-3015-468b-b8f3-74e4be002d57" />
